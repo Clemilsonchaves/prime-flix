@@ -17,14 +17,15 @@ Prime Flix e uma aplicação em React.js que consome API da  The Movie DB Com at
 
 <br>
 
-<p align="center">
-  <img alt="Prime Flix" src="" width="100%">
-</p>
+<!-- <p align="center"> -->
+<!-- <img alt="Prime Flix" src="" width="100%"> -->
+<!-- </p> -->
 
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 - React.js
+- Node.js
 - Yarn
 - HTML e CSS
 - JavaScript
@@ -32,9 +33,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Prime Flix e um app que mostra os filmes em tempo real de acordo com atualização da plataforma TMDB.
+Prime Flix e um app que mostra os filmes em tempo real de acordo com atualização da plataforma TMDB.  <br/> Curso de React de Matheus Fraga "Sujeito programador"
 
-## :memo: Licença
+##  Licença
 
 Esse projeto está sob a licença MIT.
 
