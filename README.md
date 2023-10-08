@@ -35,9 +35,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Prime Flix e um app que mostra os filmes em tempo real de acordo com atualização da plataforma TMDB.  <br/> Curso de React de Matheus Fraga "Sujeito programador"
 
-##  Licença
 
-Esse projeto está sob a licença MIT.
-
----
 
